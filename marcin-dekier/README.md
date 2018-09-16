@@ -1,6 +1,6 @@
-# Main page with CMS
+# marcin-dekier
 
-> {{ description }}
+> Nuxt.js project
 
 ## Build Setup
 

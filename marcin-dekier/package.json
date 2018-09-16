@@ -1,8 +1,8 @@
 {
-  "name": "{{ name }}",
+  "name": "marcin-dekier",
   "version": "1.0.0",
-  "description": "{{ description }}",
-  "author": "{{ author }}",
+  "description": "Nuxt.js project",
+  "author": "Marcin Dekier <marcin.dekier@appunite.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
