@@ -1,4 +1,4 @@
-# {{ name }}
+# Main page with CMS
 
 > {{ description }}
 
