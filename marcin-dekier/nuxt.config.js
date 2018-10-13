@@ -42,6 +42,9 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  plugins: [
+    { src: '~/plugins/vuedraggable.js', ssr: true },
+  ]
 }
 

@@ -1,5 +1,9 @@
 .CmsPage {
   &__main-container {
-    
+    width: 100vw;
+    height: 100vh;
+    background-color: $color-background;
+    display: flex;
+    flex-direction: row;
   }
 }
